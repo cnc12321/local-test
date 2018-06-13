@@ -9,7 +9,6 @@ class App extends Component {
       <Aux>
         <Layout>
           <BurgerBuilder />
-          <p>Test</p>
         </Layout>
       </Aux>
     );
